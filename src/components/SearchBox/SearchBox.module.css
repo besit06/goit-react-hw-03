@@ -1,0 +1,19 @@
+.search {
+  margin-top: 20px;
+  width: 100%;
+  max-width: 400px;
+}
+
+label {
+  font-weight: bold;
+  color: #333;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 1rem;
+  margin-top: 5px;
+}
